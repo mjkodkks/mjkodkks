@@ -28,6 +28,7 @@ I’m Donk (DKKs) from thailand
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkodkks&layout=compact)](https://github.com/mjkodkks/github-readme-stats)
 <!---
 mjkodkks/mjkodkks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
