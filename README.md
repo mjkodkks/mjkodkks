@@ -1,7 +1,9 @@
 ### 👋 Hi There!
 I’m Donk (DKKs) from thailand
 
-![cat-computer](https://user-images.githubusercontent.com/21122708/164910327-f80d92c7-b80a-470d-98a2-801c83804c25.gif)
+<p align="center">
+<code><img src="https://github.com/mjkodkks/mjkodkks/assets/21122708/26eddc68-6155-4ff1-b0a2-28be674954cd" width="200"/></code>
+</p>
 
 - 👀 I’m interested in Front-End Development, UX/UI, Data Visualization
 - ❤️ I’m in love with Vue.js React.js, Svelte
