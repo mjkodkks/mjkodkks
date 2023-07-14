@@ -6,7 +6,7 @@ I’m Donk (DKKs) from thailand
 </p>
 
 - 👀 I’m interested in Front-End Development, UX/UI, Data Visualization
-- ❤️ I’m in love with Vue.js React.js, Svelte
+- ❤️ I’m in love with Vue.js React.js, Svelte, Astro
 - 🌱 I’m currently learning Web3, Monorepo, Automated UI Testing, Micro Frontend
 
 ### Skill and Tools:
