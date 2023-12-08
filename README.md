@@ -38,7 +38,7 @@ I’m Donk (DKKs) from thailand
 
 ![](https://komarev.com/ghpvc/?username=mjkodkks)
 
-[![Monkeytype](https://monkeytype-github-profile.onrender.com/profile/mjkodonk)](https://monkeytype-github-profile.onrender.com/profile/mjkodonk)
+[![Monkeytype](https://monkeytype-github-profile.deno.dev/profile/mjkodonk)](https://monkeytype-github-profile.deno.dev/profile/mjkodonk)
 
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=mjkodkks&layout=compact)](https://github.com/mjkodkks/github-readme-stats)
 
