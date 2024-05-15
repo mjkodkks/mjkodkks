@@ -7,7 +7,7 @@ I’m Donk (DKKs) from thailand
 
 - 👀 I’m interested in Front-End Development, UX/UI, Data Visualization
 - ❤️ I’m in love with Vue.js React.js, Svelte, Astro
-- 🌱 I'm currently learning Solidjs, Qwik, Monorepo, Playwright, Micro Frontend
+- 🌱 I'm currently learning Solidjs, Monorepo, Playwright, Micro Frontend
 
 ### Skill and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
