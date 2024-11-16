@@ -34,9 +34,6 @@ I’m Donk (DKKs) from thailand
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-### Keep Calm And Listen To Music 🎶  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21drosl7kuzjxbn3wnmdpizwy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21drosl7kuzjxbn3wnmdpizwy&redirect=true)
-
 ![](https://komarev.com/ghpvc/?username=mjkodkks)
 
 [![Monkeytype](https://monkeytype-github-profile.deno.dev/profile/mjkodonk)](https://monkeytype-github-profile.deno.dev/profile/mjkodonk)
