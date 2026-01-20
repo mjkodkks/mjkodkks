@@ -39,7 +39,7 @@ I’m Donk (DKKs) from thailand
 
 [![Monkeytype](https://monkeytype-github-profile.deno.dev/profile/mjkodonk)](https://monkeytype-github-profile.deno.dev/profile/mjkodonk)
 
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=mjkodkks&layout=compact)](https://github.com/mjkodkks/github-readme-stats)
+![mjkodkks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkodkks&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 mjkodkks/mjkodkks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
