@@ -23,7 +23,7 @@ I’m Donk (DKKs) from thailand
 <code><img style="height: 27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img style="height: 27px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Light.svg" alt="nextjs"></code>
 <code><img style="height: 27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte"></code>
-<code><img style="height: 27px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"></code>
+<code><img style="height: 27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular"></code>
 <code><img style="height: 27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"></code>
 <code><img style="height: 27px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"></code>
 <code><img style="height: 27px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss"></code>
